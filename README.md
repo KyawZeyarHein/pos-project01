@@ -18,8 +18,8 @@ Source Code: https://github.com/KyawZeyarHein/Project01-pos
 ---
 
 ## Group Members
-- #### Kyaw Zeyar Hein  
-- #### Min Khaung Kyaw Swar  
+- #### Kyaw Zeyar Hein  6632106
+- #### Min Khaung Kyaw Swar 6712164
 
 ---
 
